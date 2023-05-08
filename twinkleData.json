@@ -20,191 +20,238 @@
   "songDataPoints": [
     {
       "recordedFrequency": "261.20939955866976 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "262.04624027657735 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.87388987566607 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "792.9578007084551 Hz",
-      "notation": "G5"
+      "notation": "G5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "1326.071415410694 Hz",
-      "notation": "E6"
+      "notation": "E6",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "884.938911514254 Hz",
-      "notation": "A5"
+      "notation": "A5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "1188.988143576417 Hz",
-      "notation": "D6"
+      "notation": "D6",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.02387333867534 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "705.9783904027965 Hz",
-      "notation": "F5"
+      "notation": "F5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "704.6516837153737 Hz",
-      "notation": "F5"
+      "notation": "F5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "332.28327521943004 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "331.9318786588611 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "293.88992886559345 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "293.91339568451286 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "261.6557613396917 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "261.35649883497115 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.39012721539626 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "793.8502891585892 Hz",
-      "notation": "G5"
+      "notation": "G5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "352.8403246085267 Hz",
-      "notation": "F4"
+      "notation": "F4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "352.96212614406613 Hz",
-      "notation": "F4"
+      "notation": "F4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "332.12961532519694 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "332.2568432211411 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "294.4329896907216 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "293.14767635948346 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "397.342043022863 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.220277282937 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "353.0755711775044 Hz",
-      "notation": "F4"
+      "notation": "F4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "705.7070266580714 Hz",
-      "notation": "F5"
+      "notation": "F5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "332.3298582640271 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "331.91754916792735 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "294.5582152302163 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "119.72379603399432 Hz",
-      "notation": "A#2"
+      "notation": "A#2",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "262.0792117918442 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "261.3258401192797 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.4861999921479 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.7866323907455 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "885.2007257881605 Hz",
-      "notation": "A5"
+      "notation": "A5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "440.3754675187915 Hz",
-      "notation": "A4"
+      "notation": "A4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "396.88183287384726 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "119.40433212996389 Hz",
-      "notation": "A#2"
+      "notation": "A#2",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "705.5329659889796 Hz",
-      "notation": "F5"
+      "notation": "F5",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "351.98036497170904 Hz",
-      "notation": "F4"
+      "notation": "F4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "331.924882629108 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "332.77945043637334 Hz",
-      "notation": "E4"
+      "notation": "E4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "294.961355529132 Hz",
-      "notation": "D4"
+      "notation": "D4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "398.1124333196553 Hz",
-      "notation": "G4"
+      "notation": "G4",
+      "duration": "1/4"
     },
     {
       "recordedFrequency": "261.49748743718595 Hz",
-      "notation": "C4"
+      "notation": "C4",
+      "duration": "1/4"
     }
   ]
 }
